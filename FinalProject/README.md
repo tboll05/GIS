@@ -5,7 +5,7 @@
 Nursing continues to grow into one of the most in demand professions with a massive skills gap projected for the near future.  In order to meet the labor demands of the job market, employers will need to seek out nursing talent from high potential areas of recruitment.  Utilizing United States Census data as well as additional spatial data sources, I worked to determine which counties in the United States might be considered “high potential” in terms of nursing recruitment.  Factors involved in determining which counties to suggest included the density of individuals with backgrounds in science or healthcare as well as the population of individuals in the county aged 20 to 34 years of age.  The final product is a map displaying these suggested counties.  Additionally, colleges and universities within the counties are plotted out.  It is my hope that this information could be used to help identify young professionals who may be looking for a new nursing jobs as well as individuals getting ready to graduate from nursing programs at the plotted colleges and universities.  Further study into the nursing programs of the colleges and universities is warranted and may reveal candidates for partnership in recruiting.
 
 ## Purpose/Inquiry Question: Develop an inquiry question concerning a topic of professional or personal interest which concerns the spatial distribution of data points.
-What counties and colleges in the United States carry high potential for nursing recruitment?
+What counties in the United States carry high potential for nursing recruitment?
 
 ## Background/Rationale and sources: Why is your inquiry question important? To Whom? What kinds of decisions are you conclusions informing? Also include a list of data sources and literature related to your topic. 2-5 sources is likely sufficient.
 
@@ -39,6 +39,8 @@ USA Counties: https://hub.arcgis.com/datasets/esri::usa-counties?geometry=-166.9
 9. Choose 3 counties to focus on and create a layout displaying these counties as well as the colleges and universities there.
 
 ## Results and Discussion: Export nicely arranged map layouts and include them in this overview document. Each figure should be accompanied by a caption describing the important information to be gleaned from each figure.
+This map shows the three suggested counties for consideration in nursing recruitment.  Their selection is based on having both high density of individuals in science and health care related industries as well as high population counts of 20 to 34 year olds.  Colleges and universities in the area are also marked to give an idea of college density and locations.  The names of specific colleges and universities can be obtained from the data set and be used in further research of each schools nursing programs.  The ideal extended outcome of this project would be a list of colleges to seek partnership with in recruiting.
+![Insert Image](TimothyFinalLayout.pdf)
 
 ## Conclusions: State and support your conclusions based on the data presented in the results section.
 Based on the data examined, the top three recommended areas in the United States for potential nurse recruitment would be Suffolk County, Massachusetts, Philadelphia County, Pennsylvania, and New York, Queens, and Kings counties, New York.
