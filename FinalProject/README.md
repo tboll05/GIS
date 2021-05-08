@@ -13,7 +13,7 @@ I decided on this inquiry question because at the time I was interviewing for a 
 
 The desired outcome of the analysis is to give a handful of counties along with the colleges that exist there as suggestions for areas to focus on recruiting from.  This focus on recruitment can manifest as building connections and relationship with colleges in the area and even physically going to job fairs.
 
-Data Sources:
+### Data Sources:
 Civilian Job Industry Data: https://data.census.gov/cedsci/table?tid=ACSDT5Y2019.C24050
 Colleges and Universities: https://hifld-geoplatform.opendata.arcgis.com/datasets/colleges-and-universities?geometry=25.806%2C-16.798%2C-25.171%2C72.130
 USA Counties: https://hub.arcgis.com/datasets/esri::usa-counties?geometry=-166.940%2C28.847%2C167.571%2C67.171
