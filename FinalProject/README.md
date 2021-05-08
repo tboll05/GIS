@@ -40,7 +40,7 @@ USA Counties: https://hub.arcgis.com/datasets/esri::usa-counties?geometry=-166.9
 
 ## Results and Discussion: Export nicely arranged map layouts and include them in this overview document. Each figure should be accompanied by a caption describing the important information to be gleaned from each figure.
 This map shows the three suggested counties for consideration in nursing recruitment.  Their selection is based on having both high density of individuals in science and health care related industries as well as high population counts of 20 to 34 year olds.  Colleges and universities in the area are also marked to give an idea of college density and locations.  The names of specific colleges and universities can be obtained from the data set and be used in further research of each schools nursing programs.  The ideal extended outcome of this project would be a list of colleges to seek partnership with in recruiting.
-![Insert Image](TimothyFinalLayout.pdf)
+![Insert Image](Images/TimothyFinalLayout.jpg)
 
 ## Conclusions: State and support your conclusions based on the data presented in the results section.
 Based on the data examined, the top three recommended areas in the United States for potential nurse recruitment would be Suffolk County, Massachusetts, Philadelphia County, Pennsylvania, and New York, Queens, and Kings counties, New York.
